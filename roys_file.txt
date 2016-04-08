@@ -1,4 +1,4 @@
 Hey, it's Roy. This is my file. This is helping me be a better PhD student... or should I say PhD stud =P
 
 def main():
-    print('Roy doesn't sucks')
+    print('Zak is the koolest')
